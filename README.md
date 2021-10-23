@@ -1,4 +1,4 @@
-# **Readme Title**
+# Readme Title
 
 ![alt text](NalaNFT.jpg)
 
